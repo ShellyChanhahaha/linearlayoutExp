@@ -1,8 +1,8 @@
-#实验内容
+# 实验内容
 
 此实验为线性布局的练习
 
-#关键代码
+# 关键代码
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -164,6 +164,6 @@
 </LinearLayout>
 ```
 
-#结果截图
+# 结果截图
 
-![1552653043243](F:\androidworkplace\tablelayoutExp\%5CUsers%5CShemd%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1552653043243.png)
+![1552653043243](https://i.loli.net/2019/03/17/5c8d8eac01bdb.png)
